@@ -5,7 +5,7 @@ on:
     types: [labeled]
 
 env:
-  DOCKER_IMAGE_NAME: cbchadb35-azure-ttt
+  DOCKER_IMAGE_NAME: cbchadb35-azure-tt
   IMAGE_REGISTRY_URL: ghcr.io
   #################################################
   ### USER PROVIDED VALUES ARE REQUIRED BELOW   ###
